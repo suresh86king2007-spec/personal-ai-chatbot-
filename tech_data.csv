@@ -1,0 +1,12 @@
+Concept,Category,Explanation
+Phishing,Cyber Security,A cyber attack where attackers disguise themselves as a trustworthy entity in an email to steal passwords or credit card numbers.
+Spear Phishing,Cyber Security,A highly targeted phishing attack aimed at a specific individual or company, using customized information to appear legitimate.
+MITM (Man-In-The-Middle),Cyber Security,An attack where the hacker secretly intercepts and alters communications between two parties who believe they are directly communicating.
+DDoS,Cyber Security,Distributed Denial of Service. An attack that crashes a website by overwhelming its server with a massive flood of fake internet traffic.
+Social Engineering,Cyber Security,The psychological manipulation of people into performing actions or divulging confidential information, bypassing technical security.
+Linked List,Data Structures,A linear data structure where elements (nodes) are not stored in contiguous memory locations. Each node contains data and a pointer to the next node.
+Singly Linked List,Data Structures,A type of linked list where navigation is forward-only. Each node points to the next, and the last node points to NULL.
+Doubly Linked List,Data Structures,A linked list where each node has two pointers: one pointing to the next node and another pointing to the previous node, allowing two-way navigation.
+Circular Linked List,Data Structures,A variation of a linked list where the last node points back to the first node (head), making a circle.
+Linked List Traversal,Algorithms,The process of visiting each node in a linked list starting from the head until reaching NULL. The time complexity for traversal is O(n).
+Linked List Insertion,Algorithms,Adding a new node to a linked list. It can be done at the beginning (O(1) time), end, or middle of the list. Fast insertions are a major advantage over arrays.

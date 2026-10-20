@@ -1,0 +1,6 @@
+.env
+users.db
+__pycache__/
+faiss_movies_index/
+faiss_tech_index/
+analytics.db

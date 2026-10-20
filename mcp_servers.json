@@ -1,0 +1,13 @@
+{
+    "movies": {
+        "name": "Movie MCP Server",
+        "enabled": true,
+        "command": "C:\\Users\\ELCOT\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+        "args": [
+            "E:\\Personal AI chat Bot\\movie_server.py"
+        ],
+        "tools": [
+            "get_movie_link"
+        ]
+    }
+}

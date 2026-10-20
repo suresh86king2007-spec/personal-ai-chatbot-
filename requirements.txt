@@ -1,0 +1,6 @@
+streamlit
+streamlit-oauth
+pandas
+python-dotenv
+groq
+openpyxl
