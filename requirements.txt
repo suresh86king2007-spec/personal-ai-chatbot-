@@ -4,3 +4,11 @@ pandas
 python-dotenv
 groq
 openpyxl
+pypdf
+google-genai
+google-api-python-client
+faiss-cpu
+sentence-transformers
+numpy
+requests
+Pillow
